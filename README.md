@@ -102,6 +102,7 @@ One hundred twenty-one production-ready plugins that extend Claude Code with dom
 | [desktop-app](plugins/desktop-app/) | Desktop application scaffolding with Electron or Tauri |
 | [devops-automator](plugins/devops-automator/) | DevOps automation scripts for CI/CD, health checks, and deployments |
 | [discuss](plugins/discuss/) | Debate implementation approaches with structured pros and cons analysis |
+| [discoclaw](https://github.com/DiscoClaw/discoclaw) | Personal AI orchestrator that bridges Discord to Claude Code with durable memory, task tracking, and cron-based automation |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | Personal genome analysis toolkit that analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard |
 | [doc-forge](plugins/doc-forge/) | Documentation generation, API docs, and README maintenance |
 | [docker-helper](plugins/docker-helper/) | Build optimized Docker images and improve Dockerfile best practices |
@@ -448,6 +449,9 @@ Thirty-five curated skill modules included in this repo, with access to **15,000
 |-------|---------|------------------|
 | [Reepl - LinkedIn Content Creation](https://github.com/reepl-io/skills) | `npx skillkit@latest install reepl-io/skills` | 18 tools for LinkedIn content management: drafts, publishing, scheduling, voice profiles, contacts, collections, templates, and AI image generation |
 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | `git clone https://github.com/conorbronsdon/avoid-ai-writing ~/.claude/skills/avoid-ai-writing` | AI writing pattern detection and rewriting (21 categories, 43 replacements) |
+| [MUSE](https://github.com/myths-labs/muse) | `git clone` + `./scripts/install.sh --tool claude` | Pure-Markdown memory OS with 48 skills, cross-conversation memory, 8 roles with permission isolation. Works with 6 AI coding tools. |
+| [Product Manager Skills](https://github.com/Digidai/product-manager-skills) | `clawhub install product-manager-skills` | Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | `npx skills add Xquik-dev/x-twitter-scraper` | X API & Twitter scraper skill for AI coding agents -- tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, account monitoring, and 19 extraction tools |
 
 ### Installing Skills
 
